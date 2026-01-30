@@ -1,4 +1,4 @@
-# Tesing Funtions
+# String methods
 print("String Methods :\n")
 
 # . index example1
