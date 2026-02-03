@@ -35,7 +35,6 @@ elif(results == "3" or results == "3D"):
 
     for l in range(layers):
         layer = []
-        print(f"\nLayer {l+1}")
         for i in range(rows):
             row = []
             for j in range(cols):
