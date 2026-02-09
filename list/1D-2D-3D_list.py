@@ -1,4 +1,4 @@
-results = input("Which list do you want?\n1D List\n2D List\n3D List\n")
+results = input("Which list do you want?\n1D List\n2D List\n3D List: ")
 
 # 1D LIST
 if(results == "1" or results == "1D"):
